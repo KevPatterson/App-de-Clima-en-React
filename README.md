@@ -6,7 +6,7 @@ El **Buscador de Clima** es una aplicación web desarrollada en React que permit
 
 ## 🖼️ Vista previa
 
-![Buscador de Clima](./assets/screenshot.png)
+![Buscador de Clima](./screenshot.png)
 
 ---
 
