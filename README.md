@@ -85,4 +85,3 @@ Actualmente, no hay pruebas automatizadas configuradas. Sin embargo, puedes real
 ---
 
 ¡Gracias por usar el **Buscador de Clima**! 🌈
-```
